@@ -1,0 +1,22 @@
+{
+  "benchmark": "SWE-bench Lite",
+  "expected_receipt_count": 60,
+  "expected_receipts_per_task": 6,
+  "expected_task_count": 10,
+  "expected_task_ids": [
+    "sqlfluff__sqlfluff-1625",
+    "sqlfluff__sqlfluff-2419",
+    "sqlfluff__sqlfluff-1733",
+    "sqlfluff__sqlfluff-1517",
+    "sqlfluff__sqlfluff-1763",
+    "marshmallow-code__marshmallow-1359",
+    "marshmallow-code__marshmallow-1343",
+    "pvlib__pvlib-python-1707",
+    "pvlib__pvlib-python-1072",
+    "pvlib__pvlib-python-1606"
+  ],
+  "note": "This package is self-contained for verification; do not claim this as a full 300-task SWE-bench Lite score.",
+  "pilot_type": "10-task proof-pipeline pilot",
+  "run_id": "trustableclaw_mac_10_proof_pipeline_pilot",
+  "schema_version": 1
+}

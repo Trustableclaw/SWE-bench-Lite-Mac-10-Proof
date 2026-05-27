@@ -1,0 +1,3657 @@
+2026-05-26 19:36:35,192 - INFO - Creating container for pvlib__pvlib-python-1707...
+2026-05-26 19:36:35,354 - INFO - Container for pvlib__pvlib-python-1707 created: 2f989265dfc13442590025bf4eb97741a5a8ffda0543c7f0e6ca42aae11d14e1
+2026-05-26 19:36:35,440 - INFO - Container for pvlib__pvlib-python-1707 started: 2f989265dfc13442590025bf4eb97741a5a8ffda0543c7f0e6ca42aae11d14e1
+2026-05-26 19:36:35,440 - INFO - Intermediate patch for pvlib__pvlib-python-1707 written to logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/patch.diff, now applying to container...
+2026-05-26 19:36:35,565 - INFO - Failed to apply patch to container: git apply --verbose
+2026-05-26 19:36:35,624 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2026-05-26 19:36:35,680 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2026-05-26 19:36:35,680 - INFO - >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,700 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,701 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,702 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,703 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,704 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,719 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,720 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,721 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,722 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: pvlib__pvlib-python-1707: >>>>> Patch Apply Failed:
+patching file pvlib/iam.py
+Hunk #1 FAILED at 1.
+Hunk #2 FAILED at 171.
+Hunk #3 FAILED at 179.
+3 out of 3 hunks FAILED -- saving rejects to file pvlib/iam.py.rej
+patch unexpectedly ends in middle of line
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/pvlib__pvlib-python-1707/run_instance.log) for more information.
+
+2026-05-26 19:36:35,723 - INFO - Attempting to stop container sweb.eval.pvlib__pvlib-python-1707.trustableclaw_mac_10...
+2026-05-26 19:36:50,850 - INFO - Attempting to remove container sweb.eval.pvlib__pvlib-python-1707.trustableclaw_mac_10...
+2026-05-26 19:36:50,867 - INFO - Container sweb.eval.pvlib__pvlib-python-1707.trustableclaw_mac_10 removed.
+2026-05-26 19:36:50,867 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.pvlib_1776_pvlib-python-1707:latest...
+2026-05-26 19:36:51,641 - INFO - Image swebench/sweb.eval.x86_64.pvlib_1776_pvlib-python-1707:latest removed.

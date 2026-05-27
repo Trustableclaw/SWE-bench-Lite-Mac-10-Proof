@@ -1,0 +1,15 @@
+{
+  "data": {
+    "instance_id": "pvlib__pvlib-python-1072",
+    "outcome_type": "tests_executed_unresolved",
+    "test_log_file": "swebench_results/pvlib__pvlib-python-1072_test.log",
+    "test_log_sha256": "8c07a4170a57a7940b97ea428d16a1e08c6b9402e46eab9f746c61d138d8f471"
+  },
+  "hash": "7dd30ceeb9bfa7b4b1d3d1285452bcf23d1abadfaba8612e51fc5600cb62cc83",
+  "index": 51,
+  "kind": "trustableclaw.swebench.tests_executed",
+  "prev_hash": "2e89ee32e19a124e4d781c875a0db96da6df3c91195a546dd6c0b0aa356b99ce",
+  "receipt_id": "rcpt_04_tests_executed_pvlib__pvlib_python_1072",
+  "timestamp": "2026-05-27T10:27:38.111856Z",
+  "version": 1
+}

@@ -1,0 +1,3075 @@
+2026-05-26 19:12:25,891 - INFO - Creating container for sqlfluff__sqlfluff-1625...
+2026-05-26 19:12:26,375 - INFO - Container for sqlfluff__sqlfluff-1625 created: 53815d217a7f4dab3d61f3ceee978d858b5d6d40b1ad639c28389e3842ee9720
+2026-05-26 19:12:26,502 - INFO - Container for sqlfluff__sqlfluff-1625 started: 53815d217a7f4dab3d61f3ceee978d858b5d6d40b1ad639c28389e3842ee9720
+2026-05-26 19:12:26,502 - INFO - Intermediate patch for sqlfluff__sqlfluff-1625 written to logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/patch.diff, now applying to container...
+2026-05-26 19:12:26,634 - INFO - Failed to apply patch to container: git apply --verbose
+2026-05-26 19:12:26,704 - INFO - Failed to apply patch to container: git apply --verbose --reject
+2026-05-26 19:12:26,757 - INFO - Failed to apply patch to container: patch --batch --fuzz=5 -p1 -i
+2026-05-26 19:12:26,758 - INFO - >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+2026-05-26 19:12:26,780 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,781 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,782 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,783 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,784 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,785 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: <exception str() failed>
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,800 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,801 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,802 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/swebench/harness/run_evaluation.py", line 182, in run_instance
+    raise EvaluationError(
+swebench.harness.utils.EvaluationError: sqlfluff__sqlfluff-1625: >>>>> Patch Apply Failed:
+patching file src/sqlfluff/rules/L031.py
+Hunk #1 succeeded at 1 with fuzz 3.
+patch unexpectedly ends in middle of line
+patch: **** unexpected end of file in patch
+
+Check (logs/run_evaluation/trustableclaw_mac_10/gpt-5.4-mini/sqlfluff__sqlfluff-1625/run_instance.log) for more information.
+
+2026-05-26 19:12:26,803 - INFO - Attempting to stop container sweb.eval.sqlfluff__sqlfluff-1625.trustableclaw_mac_10...
+2026-05-26 19:12:41,920 - INFO - Attempting to remove container sweb.eval.sqlfluff__sqlfluff-1625.trustableclaw_mac_10...
+2026-05-26 19:12:41,938 - INFO - Container sweb.eval.sqlfluff__sqlfluff-1625.trustableclaw_mac_10 removed.
+2026-05-26 19:12:41,938 - INFO - Attempting to remove image swebench/sweb.eval.x86_64.sqlfluff_1776_sqlfluff-1625:latest...
+2026-05-26 19:12:41,947 - INFO - Image swebench/sweb.eval.x86_64.sqlfluff_1776_sqlfluff-1625:latest removed.

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "actual_response_model": "gpt-5.4-mini-2026-03-17",
+    "agent": "OpenAI Python Agent",
+    "agent_log_file": "agent_logs/marshmallow-code__marshmallow-1343_inference.log",
+    "agent_log_sha256": "b7fa91f2c9996ee6ab5ae24da821abd7d291ae59c06a13ccf989714d834dbec2",
+    "instance_id": "marshmallow-code__marshmallow-1343",
+    "model": "gpt-5.4-mini",
+    "provider": "openai",
+    "requested_model": "gpt-5.4-mini"
+  },
+  "hash": "703229b6a380d04299b18299688d26c896fb5c22cc08acbbc771f5cfaed32207",
+  "index": 37,
+  "kind": "trustableclaw.swebench.agent_started",
+  "prev_hash": "434a6106815a019d89490fedc77d8f943338dc9b0e04369a82e38496a54480db",
+  "receipt_id": "rcpt_02_agent_started_marshmallow_code__marshmallow_1343",
+  "timestamp": "2026-05-27T09:49:38.111856Z",
+  "version": 1
+}
